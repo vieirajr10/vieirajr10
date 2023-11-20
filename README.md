@@ -12,12 +12,12 @@
 </div> <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fernandovieiradev&theme=white&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vieirajr10&theme=white&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> <br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fernandovieiradev&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" alt="Fernando Vieira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandovieiradev&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieirajr10&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000000" />
 </div>
 
 <div align="center">
