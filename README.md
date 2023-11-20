@@ -16,7 +16,7 @@
 </p> <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fernandovieiradev&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" alt="Fernando Vieira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vieirajr10&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" alt="Fernando Vieira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieirajr10&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000000" />
 </div>
 
