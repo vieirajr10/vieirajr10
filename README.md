@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandovieiradev&bg_color=000000&color=fff&line=fff&point=fff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vieirajr10&bg_color=000000&color=fff&line=fff&point=fff&area=true&hide_border=true" />
 </p>
 
 <div align="center"> 
