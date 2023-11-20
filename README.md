@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h3>Principais Skills:</h3>
+  <h3>Principais Skills</h3>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
@@ -24,12 +24,13 @@
 
 <div align="center">
   <br>
-  <p align="center"><b>Visitors Count</b></p>
+  <p align="center"><b>Visitas no Perfil</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fernandovieiradev}/count.svg" /></p>
   <br>
 </div>
 
 <div align="center"> 
+  <p align="center"><b>Redes Sociais</b></p> <br>
   <a href="https://instagram.com/_vieiraa.jr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vieira3007/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div> <br>
