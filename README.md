@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Fernando+Vieira%3BAtualmente+me+encontro+com+18+anos%3BSeja+Bem+-+Vindo%21%21+%3A%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Seja+Bem+-+Vindo%21%21+%3A%29" />
 </p>
 
 <p align="center">
